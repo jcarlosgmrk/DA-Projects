@@ -63,7 +63,7 @@ El error absoluto nos da 1268.72, lo cual es una precisión decente.
 - **Estado más peligroso: México**
 ![image](https://github.com/user-attachments/assets/8a166078-e4fd-44e6-9b89-b7b8c8632219)
 # Conclusión
-- **Los descubrimientos que tenemos en este análisis son:**
+**Los descubrimientos que tenemos en este análisis son:**
 - **Entre 2015 y 2017, observamos un aumento significativo en el número de delitos. A partir de 2017 la tendencia cambia, con una disminución constante hasta estabilizarse entre 2020 y 2021.**
 - **El modelo ARIMA predice un incremento moderado para el año 2022, esto solo con los datos que disponemos, puede haber otras variables como asuntos económicos o sociales que puedan cambiar la predicción.**
 - **México se destaca por tener un nivel extremadamente alto de delitos, muy por encima del resto del país. Esto indica que en esta región debemos aumentar la tarifa, ya que el riesgo para los vehículos es mayor.**
